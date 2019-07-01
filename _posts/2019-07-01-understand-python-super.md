@@ -10,7 +10,7 @@ published: false
 不要一说到 super 就想到父类！super 指的是 MRO 中的下一个类！**
 
 一说到 super 就想到父类这是初学者很容易犯的一个错误，也是我当年犯的错误。
-忘记了这件事之后，再去看这篇文章：Python’s super() considered super!
+忘记了这件事之后，再去看这篇文章：[Python’s super() considered super!](https://rhettinger.wordpress.com/2011/05/26/super-considered-super/)
 这是 Raymond Hettinger 写的一篇文章，也是全世界公认的对 super 讲解最透彻的一篇文章，凡是讨论 super 都一定会提到它（当然还有一篇 Python's Super Considered Harmful）。
 
 如果不想看长篇大论就去看这个答案，super 其实干的是这件事：
